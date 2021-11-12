@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Developing my Coding Skills**
 
-- 🌱 I’m currently learning **MERN Stack & DSA**
+- 🌱 I’m learning **MERN Stack & DSA**
 
 - 📫 You can reach me at **rohangilbile123@gmail.com**
 
