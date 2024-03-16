@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Gilbile:))</h1>
 
-- 🔭 I’m currently working as a **DevOps Engineer** with 1 year of Work Experience.
-
-- 🌱 Exploring the world of **Kubernetes**.
+- 🔭 I’m currently working as a **DevOps Engineer**.
 
 - 📫 You can reach me at **rohangilbile123@gmail.com**
 
